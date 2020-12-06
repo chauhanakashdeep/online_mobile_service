@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  body{
+    background-image: url('homebg2.jpg');
+    background-size: cover;
+  
+    background-position: top;
+  }
+  .topnav{
+    margin: 7px;
+    padding: 7px;
+  }
+  .topnav a{
+    display: inline block;
+    float: right;
+    margin: 5px;
+    padding: 15px;
+    font-size: 22px;
+    color: antiquewhite;
+  }
+  .topnav a:hover{
+    color: rgb(241, 95, 11);
+  }
+  .active{
+    background-color: royalblue;
+  }
+  .cname h2{
+    font-family: "Lucida Console", Courier, monospace;
+    position: absolute;
+    left: 5%;
+    margin-top: 12px;
+    margin-left: 12px;
+    float: left;
+    padding: 12px;
+    color: rgb(200, 209, 25);
+    font-size: 40px;
+  }
+  .nav{
+    
+    background-color: rgba(219, 164, 46, 0.829);
+    padding: 12px;
+  }
+  .nav h3{
+    
+    font-size: 18px;
+    color: aliceblue;
+  }
+  .logo img{
+    float: left;
+    width: 75px;
+    height: auto;
+    margin: 12px;
+  }
+  .centretext {
+      position: absolute;
+      top: 30%;
+      left: 7%;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 28px;
+      color: whitesmoke;
+  }
+  .btn1 {
+    cursor: pointer;
+    position: absolute;
+    top: 60%;
+    left: 10%;
+  
+  
+  }
+  button{
+    font-size: 18px;
+    margin: 10px;
+    padding: 10px;
+    color: antiquewhite;
+    background-color: black;
+    border-radius: 10px black;
+
+  }
+  #appoin{
+  
+    font-size: 18px;
+    color: antiquewhite;
+    background-color: black;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px solid black;
+  }
+  #touch{
+  
+    font-size: 18px;
+    margin: 10px;
+    padding: 10px;
+    color: antiquewhite;
+    background-color: black;
+    border-radius: 10px black;
+  }
+
+  
+  
+  

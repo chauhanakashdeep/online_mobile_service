@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-size: cover;
+    background-image: url('homebg2.jpg');
+    background-position: top;
+
+}
+.container{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+}
+.header{
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#mob_info{
+    margin: 10px;
+    padding: 5px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#mob_defect{
+    margin: 10px;
+    padding: 5px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+button{
+    padding: 5px;
+    margin: 10px;
+    color: white;
+    font-size: 16px;
+    background-color: black;
+}
